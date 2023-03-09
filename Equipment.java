@@ -1,5 +1,4 @@
 /**
- * Betty Vuong
  * ICS4U
  * 26/04/22
  * Program is a equipment object that sets ad returns information for equipment.
