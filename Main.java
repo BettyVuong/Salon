@@ -1,5 +1,4 @@
-/* Avi Walia
- * Ms. Katsman
+/* 
  * April 26
  * ICS4U
  *
