@@ -1,5 +1,4 @@
 /**
- * Elianna Nghiem
  * ICS4U1
  * April 26, 2022
  * This program is a client object that sets and returns information for the client.
