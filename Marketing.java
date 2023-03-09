@@ -4,7 +4,6 @@ import java.util.Random;
 /**
  * Allows the user to see the different sections in marketing and let's them modify/create the information
  * 
- * @Mansoor Zafar
  * @2022-04-17
  */
 public class Marketing
