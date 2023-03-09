@@ -5,7 +5,6 @@ import java.io.*;
 /**
  * Allows the user to access the multiple services and checks whether everything is in stock 
  *
- * @Mansoor Zafar
  * @2022-04-17
  */
 public class Services{
