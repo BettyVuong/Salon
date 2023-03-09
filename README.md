@@ -1,2 +1,2 @@
 # Salon
-Salon software that looks at inventory, schedule, clientele, etc. A group collaborative project.
+Salon software that is made to mock a real-life salon software with unqiue features made for hairstylists and salon owners by people who know the field themselves. The program was created for the Hairstyling and Aesthetics course business project where it was a client project that mocked a web devlopment company. The user can access the software as the owner or employee to view different needs of the software. Depending on the employee or admin menu, the user can view and add clients to the schedule, add notes, access marketing options, organize and buy stock/supplies, etc. The program uses file I/O so all information inputted will be saved and backed up.
